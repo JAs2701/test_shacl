@@ -21,7 +21,7 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Install dependecy
-        run: npm Install
+        run: npm ci
 
       - name: Install tooltips librabry core
         run: npm install @actions/core
