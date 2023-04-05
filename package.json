@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p tsconfig.build.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/JAs2701/test_shacl.git"
-  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
