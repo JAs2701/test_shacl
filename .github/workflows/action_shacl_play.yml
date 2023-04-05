@@ -31,6 +31,8 @@ jobs:
         run: npm install @actions/github
       - name: Install tooltips librabry io
         run: npm install @actions/io
+      - name: Install tooltips librabry tools cache
+        run: npm install @actions/tool-cache
 
       - name: Build
         run: npm run build
