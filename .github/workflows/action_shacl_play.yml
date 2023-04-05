@@ -34,9 +34,6 @@ jobs:
       - name: Install tooltips librabry tools cache
         run: npm install @actions/tool-cache
 
-      - name: Build
-        run: npm run build
-      
       - name: Test
         run: npm run test
 
