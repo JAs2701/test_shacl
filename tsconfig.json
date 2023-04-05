@@ -104,7 +104,7 @@
 
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
-    "Lib": ["ESNext"]                                 /* Skip type checking all .d.ts files. */
+                                    /* Skip type checking all .d.ts files. */
   },
   "references": [
     {
